@@ -1,8 +1,10 @@
 # A11yDojo
 
-Vibe-coded apps ship unnamed icon buttons, skipped headings, and keyboard traps.
-This is a game that repairs those three. Levels in
-[`src/lib/a11y.ts`](src/lib/a11y.ts).
+A training surface for the three WCAG failures that dominate generated
+interfaces: missing accessible names, heading order that follows font size, and
+keyboard focus that leaks out of a dialog.
+
+Levels and the pass predicate are in [`src/lib/a11y.ts`](src/lib/a11y.ts).
 
 **React 19 · TypeScript (strict) · Vite 8 · Tailwind CSS 4 · Zustand · Vitest ·
 Playwright**
@@ -22,11 +24,11 @@ and Logs (Mountain View).
 | -------- | --------------------------------------------------------------------------------------- |
 | GitHub   | [github.com/alexalghisi](https://github.com/alexalghisi)                                |
 | LinkedIn | [linkedin.com/in/alghisi](https://www.linkedin.com/in/alghisi)                          |
-| Email    | [alessandro@onlineparentingprograms.com](mailto:alessandro@onlineparentingprograms.com) |
+| Email    | [alexalghisi@gmail.com](mailto:alexalghisi@gmail.com)                                   |
 | Location | Cluj-Napoca, Romania · open to remote / EU / US-friendly timezones                      |
 
 **Hiring?** Open an issue, message me on LinkedIn, or email
-[alessandro@onlineparentingprograms.com](mailto:alessandro@onlineparentingprograms.com).
+[alexalghisi@gmail.com](mailto:alexalghisi@gmail.com).
 
 ---
 

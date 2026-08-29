@@ -48,5 +48,5 @@
     "vitest": "^4.1.10"
   },
   "name": "a11ydojo",
-  "description": "A game that repairs inaccessible UI: missing names, skipped headings, keyboard traps. The bugs vibe-coded apps ship."
+  "description": "WCAG training for unnamed controls, broken heading order, and keyboard focus traps."
 }

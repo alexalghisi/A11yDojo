@@ -4,6 +4,10 @@ A training surface for the three WCAG failures that dominate generated
 interfaces: missing accessible names, heading order that follows font size, and
 keyboard focus that leaks out of a dialog.
 
+**Download:** [latest release](https://github.com/alexalghisi/A11yDojo/releases/latest)
+
+![A11yDojo running](docs/preview.png)
+
 Levels and the pass predicate are in [`src/lib/a11y.ts`](src/lib/a11y.ts).
 
 **React 19 · TypeScript (strict) · Vite 8 · Tailwind CSS 4 · Zustand · Vitest ·
